@@ -1,0 +1,11 @@
+.gazzbery-menu div {
+  height: 100vh;
+  position: relative;
+  width: 100%;
+}
+
+.gazzbery-menu div > img {
+  width: 100%;
+  height: 100%;
+}
+
