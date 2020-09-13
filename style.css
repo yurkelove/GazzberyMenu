@@ -1,3 +1,11 @@
+@media (min-width: 1024px) {
+  .gazzbery-menu {
+    height: 100%;
+    width: 992px;
+    margin: 0 auto;
+  }
+}
+
 .gazzbery-menu div {
   height: 100vh;
   position: relative;
